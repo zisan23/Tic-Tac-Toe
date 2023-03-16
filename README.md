@@ -4,4 +4,6 @@ If you want to play this game just copy the code (No permission required) from t
 
 Leave a comment below if you like my game.
 
+###CSEDU-27th Batch
+
 (N.B: There is no graphics used in the game, just simple logic, so please make sure to play the game only to have fun)
